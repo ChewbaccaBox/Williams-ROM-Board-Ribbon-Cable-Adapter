@@ -12,10 +12,10 @@ original connector. So instead of shelling out $10 for a new connector
 with the same design, I just made this which should hold up better,
 and if the cable ever gets flakey, it's much easier to replace it!
 
-**BILL OF MATERIALS** :\
+**BILL OF MATERIALS** :
 
 **40 x 1 Pin Header (2.54mm pitch)**\
-&nbsp;&nbsp;&nbsp;&nbsp; DGK:
+&nbsp;&nbsp;&nbsp;&nbsp; DGK:\
 **1 x 40 pin IDC connector (2.54mm pitch, 2x20 pins)**\
 &nbsp;&nbsp;&nbsp;&nbsp; DGK:
 
