@@ -14,17 +14,21 @@ and if the cable ever gets flakey, it's much easier to replace it!
 
 **BILL OF MATERIALS** :
 
-**40 x 1 Pin Header (2.54mm pitch)**\
-&nbsp;&nbsp;&nbsp;&nbsp; DGK:\
-**1 x 40 pin IDC connector (2.54mm pitch, 2x20 pins)**\
-&nbsp;&nbsp;&nbsp;&nbsp; DGK:
+**1 x 20x2 pin IDC Connector (2.54mm pitch)**\
+&nbsp;&nbsp;&nbsp;&nbsp; DGK: 	S9175-ND\
+**4 x 20x1 Pin Headers (2.54mm pitch)**\
+&nbsp;&nbsp;&nbsp;&nbsp; DGK: 	2057-PH1-20-UA-ND\
+**1 x 20x2 6" Ribbon Cable (2.54mm pitch)**\
+&nbsp;&nbsp;&nbsp;&nbsp; DGK: 	H3CCS-4006G\
+
 
 **TESTING STATUS:**
 
 Installed a few in some late Defender rom boards, and they work!
-In theory most williams ROM boards up to mystic marathon or
-some game around that time use this connector, so they should work.
-There is always a possiblity for clearance issues.
+In theory most williams ROM boards (up to mystic marathon or
+something) use this connector, so they should work.
+(There is a possiblity for clearance issues as I've not tried 
+every revision)
 
 
 **INSTALLATION INSTRUCTIONS:**
@@ -32,17 +36,21 @@ There is always a possiblity for clearance issues.
 First, remove the old connector by desoldering it from the
 ROM board.
 
-There's probably easier ways to assmeble this... but I cut up 
-10 pin strips of those pin hehaders, and placed a pin in each
-of the pin holes in the ROM board, so that the plastic was on
-the top side of the ROM board. Then, I took a PCB, placed it
-on top and got all the pins to line up. And then it was just 
-a matter of soldering all the pins.
+Originally I had assembled this by cutting up individual pins
+and placing them in the holes. BUT as it turns out there's a 
+much easier way to assemble this. 
+First, solder the Ribbon Cable Header onto the little PCB.
+Then, you'll need 4 strips of 20 0.1" pitch pins. Remove every other pin.
+Insert into board as shown in the picture.
 
-A friend suggested that I don't even need the pins, just to
-have the boards touching and fill the holes with solder.
-You are certainly welcome to try this, and if you do, let me
-know how that goes!
+![Board Front](Images/inprogress.jpg)
+
+Then lay my PCB on top (lining up the pins) and top solder the pins
+to the board.
+
+You could also try just resting the PCBs and foregoing the pins, but
+I haven't tried it and I feel like it's more susceptible to breaking
+off. (But if you do, tell me how it goes!)
 
 ![Board Front](Images/installed.jpg)
 
