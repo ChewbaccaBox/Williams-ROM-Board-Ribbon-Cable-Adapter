@@ -19,7 +19,7 @@ and if the cable ever gets flakey, it's much easier to replace it!
 **4 x 20x1 Pin Headers (2.54mm pitch)**\
 &nbsp;&nbsp;&nbsp;&nbsp; DGK: 	2057-PH1-20-UA-ND\
 **1 x 20x2 6" Ribbon Cable (2.54mm pitch)**\
-&nbsp;&nbsp;&nbsp;&nbsp; DGK: 	H3CCS-4006G\
+&nbsp;&nbsp;&nbsp;&nbsp; DGK: 	H3CCS-4006G
 
 
 **TESTING STATUS:**
